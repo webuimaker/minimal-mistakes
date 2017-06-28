@@ -4,14 +4,14 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
+theme: minimal-mistakes-jekyll
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Jeff Hwang"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Jeff Hwang"
+description              : "Human Learning • Machine Learning"
+url                      : "https://www.jeffhwang.me/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -55,11 +55,11 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
+  username               : jeffhwang
+#facebook:
+  #username               :
+  #app_id                 :
+ # publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -77,30 +77,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Jeff Hwang"
+  avatar           : https://pbs.twimg.com/profile_images/427693200816369664/4mBhvh4-_400x400.png
+  bio              : "Human Learning • Machine Learning "
+  location         : "Seattle, WA"
   email            :
-  uri              :
+  uri              : https://www.jeffhwang.me/
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  #facebook        :
   foursquare       :
   github           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : instajeff4
   lastfm           :
-  linkedin         :
+  linkedin         : jeffhwang
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : jeffhwang
   vine             :
   weibo            :
   xing             :
